@@ -16,6 +16,8 @@
 		3FB10B2A1F2DD83B005F5DC3 /* MSBC_2017Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB10B291F2DD83B005F5DC3 /* MSBC_2017Tests.swift */; };
 		3FB10B351F2DD83B005F5DC3 /* MSBC_2017UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB10B341F2DD83B005F5DC3 /* MSBC_2017UITests.swift */; };
 		3FB10B431F2DE141005F5DC3 /* EventTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB10B421F2DE141005F5DC3 /* EventTableViewCell.swift */; };
+		3FB10B451F2EBF4E005F5DC3 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB10B441F2EBF4E005F5DC3 /* Event.swift */; };
+		3FB10B471F2EC367005F5DC3 /* Speaker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB10B461F2EC367005F5DC3 /* Speaker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		3FB10B341F2DD83B005F5DC3 /* MSBC_2017UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MSBC_2017UITests.swift; sourceTree = "<group>"; };
 		3FB10B361F2DD83B005F5DC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FB10B421F2DE141005F5DC3 /* EventTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventTableViewCell.swift; sourceTree = "<group>"; };
+		3FB10B441F2EBF4E005F5DC3 /* Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		3FB10B461F2EC367005F5DC3 /* Speaker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Speaker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				3FB10B141F2DD83B005F5DC3 /* FirstViewController.swift */,
 				3FB10B161F2DD83B005F5DC3 /* SecondViewController.swift */,
 				3FB10B421F2DE141005F5DC3 /* EventTableViewCell.swift */,
+				3FB10B441F2EBF4E005F5DC3 /* Event.swift */,
+				3FB10B461F2EC367005F5DC3 /* Speaker.swift */,
 				3FB10B181F2DD83B005F5DC3 /* Main.storyboard */,
 				3FB10B1B1F2DD83B005F5DC3 /* Assets.xcassets */,
 				3FB10B1D1F2DD83B005F5DC3 /* LaunchScreen.storyboard */,
@@ -269,7 +275,9 @@
 				3FB10B431F2DE141005F5DC3 /* EventTableViewCell.swift in Sources */,
 				3FB10B171F2DD83B005F5DC3 /* SecondViewController.swift in Sources */,
 				3FB10B131F2DD83A005F5DC3 /* AppDelegate.swift in Sources */,
+				3FB10B471F2EC367005F5DC3 /* Speaker.swift in Sources */,
 				3FB10B151F2DD83B005F5DC3 /* FirstViewController.swift in Sources */,
+				3FB10B451F2EBF4E005F5DC3 /* Event.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
